@@ -1,0 +1,12 @@
+torch>=2.1.0
+transformers>=4.41.0
+peft>=0.10.0
+trl>=0.9.4
+bitsandbytes>=0.42.0
+datasets>=2.18.0
+accelerate>=0.30.0
+sentencepiece
+streamlit>=1.33.0
+pyyaml
+faiss-cpu
+tqdm
