@@ -1,4 +1,3 @@
-
 # Data Notes
 This project uses Hugging Face dataset: `ruslanmv/ai-medical-chatbot`.
 The notebook downloads it automatically.
