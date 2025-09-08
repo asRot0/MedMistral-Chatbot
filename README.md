@@ -1,4 +1,4 @@
-# MedMistral-Chatbot 🩺
+# MedMistral-Chatbot
 Lightweight medical assistant chatbot fine-tuned with **QLoRA** on **Mistral-7B-Instruct** using the
 `ruslanmv/ai-medical-chatbot` dataset. Includes a **Streamlit** chat UI and a **Colab-ready fine-tuning notebook**.
 
