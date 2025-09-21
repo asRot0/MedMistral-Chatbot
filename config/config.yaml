@@ -1,0 +1,10 @@
+base_model_id: mistralai/Mistral-7B-Instruct-v0.1
+adapter_path: artifacts/lora/medical_chatbot_lora
+max_new_tokens: 256
+temperature: 0.3
+top_p: 0.9
+use_4bit: true
+system_prompt: |
+  You are a cautious, supportive medical assistant for first-phase triage.
+  You provide general information, not a diagnosis. Encourage patients to see a clinician.
+  For severe symptoms, advise urgent care immediately.
